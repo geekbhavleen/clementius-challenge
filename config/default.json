@@ -1,0 +1,4 @@
+{
+  "mongoURI": "mongodb+srv://ToDoApp:bY8joiWbrTShl5ki@cluster0-dlqdu.mongodb.net/challenge?retryWrites=true&w=majority",
+  "jwtSecret": "mysecrettoken"
+}
